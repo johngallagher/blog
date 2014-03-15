@@ -1,6 +1,5 @@
 ---
----
-layout: post
+layout: default
 title: Validation woes are at an end.
 date: 2014-03-15T05:10:54+00:00
 categories: 
@@ -16,5 +15,3 @@ The most exciting thing for me here is [the remote feature](http://parsleyjs.org
 [Parsley](http://parsleyjs.org/) also has, rather helpfully, [validations for most common fields](http://parsleyjs.org/doc/index.html#validators).
 
 Finally - one place for validation rules! Most excellent.
-
----
