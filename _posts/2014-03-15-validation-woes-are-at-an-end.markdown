@@ -18,4 +18,3 @@ The most exciting thing for me here is [the remote feature](http://parsleyjs.org
 Finally - one place for validation rules! Most excellent.
 
 ---
-
